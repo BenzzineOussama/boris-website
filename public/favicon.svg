@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Background circle -->
+  <circle cx="16" cy="16" r="15" fill="#1e6091"/>
+  
+  <!-- Letter B -->
+  <path d="M10 8h6c2.2 0 4 1.8 4 4s-1.8 4-4 4h-2m-4 0h6c2.2 0 4 1.8 4 4s-1.8 4-4 4h-6V8z" 
+        fill="none" 
+        stroke="white" 
+        stroke-width="2" 
+        stroke-linecap="round" 
+        stroke-linejoin="round"/>
+  
+  <!-- Small shield icon to represent health/protection -->
+  <path d="M24 10v4c0 2.2-1.8 4-4 4s-4-1.8-4-4v-4h8z" 
+        fill="white" 
+        opacity="0.3"/>
+</svg>
