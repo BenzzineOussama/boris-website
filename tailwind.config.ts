@@ -10,9 +10,9 @@ const config: Config = {
     extend: {
       colors: {
         brand: {
-          blue: '#1e6091',
-          'blue-dark': '#164a73',
-          'blue-light': '#2874a6',
+          blue: '#2563EB',
+          'blue-dark': '#1D4ED8',
+          'blue-light': '#3B82F6',
         },
         gray: {
           50: '#F8F9FA',
